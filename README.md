@@ -1,6 +1,6 @@
 # Programozás bölcsészeknek
 
-Erdő szélén őzike
-Azt nézi, hogy nézik-e
-Ne nézz minket, őzike
+Erdő szélén őzike  
+Azt nézi, hogy nézik-e  
+Ne nézz minket, őzike  
 
